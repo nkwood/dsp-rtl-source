@@ -1,0 +1,8 @@
+*\.properties*
+!example-rtl.properties
+
+target/
+.idea/
+
+*.class
+*.iml
